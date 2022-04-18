@@ -1,0 +1,1 @@
+{"username": "rightnaaa", "name": "taryn", "url": "instagram.com/rightnaaa", "followers": "305489", "following": "35", "posts": "4", "bio": "", "external url": "None", "private": "False", "verified": "False", "profile pic url": "https://tinyurl.com/ybzlenbc", "business account": "False", "connected to fb": "None", "joined recently": "False", "business category": "None"}

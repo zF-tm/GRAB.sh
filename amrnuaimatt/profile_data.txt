@@ -1,0 +1,1 @@
+{"username": "amrnuaimatt", "name": "Amr", "url": "instagram.com/amrnuaimatt", "followers": "925", "following": "575", "posts": "0", "bio": "", "external url": "None", "private": "True", "verified": "False", "profile pic url": "https://tinyurl.com/y7pzrqu9", "business account": "False", "connected to fb": "None", "joined recently": "False", "business category": "None"}
