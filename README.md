@@ -1,21 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmshenShanu07/GRAB/master/.lib/20191103_233944.jpg" width="300" height="120">
-</p>
-<p align="center"><img src="https://img.shields.io/badge/Version-1.2-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/AmshenShanu07">
-    <img src="https://img.shields.io/github/followers/AmshenShanu07?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/AmshenShanu07/GRAB/stargazers">
-    <img src="https://img.shields.io/github/stars/AmshenShanu07/GRAB?style=social">
-  </a>
-</p>
-<p align="center">
-  Open Source Information Instagram
-</p>
-
----
-
 * The Instagram GRAB Tool gets a range of information from an Instagram account that you normally wouldn't be able to get
 from just looking at their profile
 
@@ -58,14 +40,3 @@ from just looking at their profile
 `                        ( save profile pic, info , post info )`
 
 ---
-
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
- 
-  </a>
-  <a href="https://instagram.com/amshen__shanu">
-    <img src="http://clipart-library.com/images_k/instagram-png-transparent/instagram-png-transparent-16.png" width="40" height="40">
-    </a>
-</p>
